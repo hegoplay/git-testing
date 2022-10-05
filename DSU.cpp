@@ -32,7 +32,7 @@ void Union(int a, int b){
 	}
 }
 
-
+//choi game khong
 
 int main(){
 	memset(siz,1,mxn);
