@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 
+//tao struct de luu toa do trên geometry
 struct Point{
 	long long x;
 	long long y;
