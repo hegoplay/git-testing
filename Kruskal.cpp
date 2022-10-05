@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-//wtf hom nay la thu hai
+//xin chao cac ban minh la manh
 using namespace std;
 
 struct edge{
